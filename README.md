@@ -1,6 +1,4 @@
-## Vax-Man
-
-<hr>
+## Vax-Man in Python
 
 <br>
 
@@ -13,4 +11,8 @@ Forked from: [https://github.com/hbokmann/Pacman](https://github.com/hbokmann/Pa
 <br>
 
 Edited by: **Melwyn Francis Carlo (2021)**
+
+<br>
+
+YouTube Link: [https://youtu.be/ZrqZEC6DvMc](https://youtu.be/ZrqZEC6DvMc)
 
